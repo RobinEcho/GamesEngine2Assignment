@@ -17,9 +17,9 @@
 
 
 # Story Board
-![Storyboard](/StoryBoard/001.png)
+![Storyboard](/StoryBoard/001.PNG)
 
-* Razer Ship warping
+
 
 ![Storyboard](/StoryBoard/002.png)
 
