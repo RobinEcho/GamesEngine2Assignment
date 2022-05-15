@@ -17,58 +17,39 @@
 
 
 # Story Board
+## Razer ship warping
 ![Storyboard](/StoryBoard/001.PNG)
 
-
-
+## Space Station First Person view
 ![Storyboard](/StoryBoard/002.png)
 
-* Space Station First Person view
-
-
+## Wingman ship inbound and being formation with Razer
 ![Storyboard](/StoryBoard/003.png)
 
-* Wingman ship inbound and being formation with Razer
-
-
+## Enemy Mother ship arrived
 ![Storyboard](/StoryBoard/004.png)
 
-* Enemy Mother ship arrived
-
-
+## Enemy Fighter ship spawned and move close to Razer
 ![Storyboard](/StoryBoard/005.png)
 
-* Enemy Fighter ship spawned and move close to Razer
-
-
+## Dogfight between alliance and enemy
 ![Storyboard](/StoryBoard/006.png)
 
-* Dogfight between alliance and enemy
-
-
+## Reinforcements inbound
 ![Storyboard](/StoryBoard/007.png)
 
-* Reinforcements inbound
-
-
+## Alliance mother ship inbound
 ![Storyboard](/StoryBoard/008.png)
 
-* Alliance mother ship inbound
-
-
+## Super cannon charging
 ![Storyboard](/StoryBoard/009.png)
 
-* Super cannon charging
-
-
+## Nuke flying towards to enemy mother ship
 ![Storyboard](/StoryBoard/010.png)
 
-* Nuke flying towards to enemy mother ship
-
-
+## Enemy Mother ship escape from the battlefield
 ![Storyboard](/StoryBoard/011.png)
 
-* Enemy Mother ship escape from the battlefield
 
 
 # Events Summary:
